@@ -59,6 +59,66 @@
           "name": "Higgins Torres",
           "email": "higginstorres@kinetica.com",
           "phone": "+1 (970) 413-2495"
+        },
+        {
+          "id": 11,
+          "name": "Yang Bray",
+          "email": "yangbray@kinetica.com",
+          "phone": "+1 (854) 540-2315"
+        },
+        {
+          "id": 12,
+          "name": "Lora Davidson",
+          "email": "loradavidson@kinetica.com",
+          "phone": "+1 (892) 556-3545"
+        },
+        {
+          "id": 13,
+          "name": "Wallace Patrick",
+          "email": "wallacepatrick@kinetica.com",
+          "phone": "+1 (944) 493-3294"
+        },
+        {
+          "id": 14,
+          "name": "Alba Hunter",
+          "email": "albahunter@kinetica.com",
+          "phone": "+1 (879) 581-3126"
+        },
+        {
+          "id": 15,
+          "name": "Angela Sampson",
+          "email": "angelasampson@kinetica.com",
+          "phone": "+1 (927) 428-3459"
+        },
+        {
+          "id": 16,
+          "name": "Ora Anderson",
+          "email": "oraanderson@kinetica.com",
+          "phone": "+1 (964) 542-3913"
+        },
+        {
+          "id": 17,
+          "name": "Araceli Talley",
+          "email": "aracelitalley@kinetica.com",
+          "phone": "+1 (824) 401-3015"
+        },
+        {
+          "id": 18,
+          "name": "Cornelia Washington",
+          "email": "corneliawashington@kinetica.com",
+          "phone": "+1 (815) 518-3519"
+        },
+        {
+          "id": 19,
+          "name": "Wanda Kennedy",
+          "email": "wandakennedy@kinetica.com",
+          "phone": "+1 (852) 551-2981"
+        },
+        {
+          "id": 20,
+          "name": "Julie Vance",
+          "email": "julievance@kinetica.com",
+          "phone": "+1 (811) 444-2784"
         }
       ]
 }
