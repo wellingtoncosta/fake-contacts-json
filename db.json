@@ -1,702 +1,122 @@
 "contacts": [
   {
     "id": 1,
-    "age": 33,
-    "name": "Vinson Hansen",
-    "email": "vinsonhansen@kinetica.com",
-    "phone": "+1 (992) 553-2538"
+    "name": "Prince Sutton",
+    "email": "princesutton@kinetica.com",
+    "phone": "+1 (995) 563-3647"
   },
   {
     "id": 2,
-    "age": 35,
-    "name": "Shannon Rowe",
-    "email": "shannonrowe@kinetica.com",
-    "phone": "+1 (861) 481-2006"
+    "name": "Powers Hunt",
+    "email": "powershunt@kinetica.com",
+    "phone": "+1 (909) 539-3174"
   },
   {
     "id": 3,
-    "age": 34,
-    "name": "Claudine Sanders",
-    "email": "claudinesanders@kinetica.com",
-    "phone": "+1 (856) 594-3836"
+    "name": "Glass Nicholson",
+    "email": "glassnicholson@kinetica.com",
+    "phone": "+1 (878) 436-2892"
   },
   {
     "id": 4,
-    "age": 23,
-    "name": "Monroe Clark",
-    "email": "monroeclark@kinetica.com",
-    "phone": "+1 (880) 511-4000"
+    "name": "Clayton Burris",
+    "email": "claytonburris@kinetica.com",
+    "phone": "+1 (965) 521-2956"
   },
   {
     "id": 5,
-    "age": 23,
-    "name": "Roth Burks",
-    "email": "rothburks@kinetica.com",
-    "phone": "+1 (846) 543-3745"
+    "name": "Evangelina Tillman",
+    "email": "evangelinatillman@kinetica.com",
+    "phone": "+1 (838) 527-3276"
   },
   {
     "id": 6,
-    "age": 32,
-    "name": "Marisa Hatfield",
-    "email": "marisahatfield@kinetica.com",
-    "phone": "+1 (874) 408-3577"
+    "name": "Anderson Trevino",
+    "email": "andersontrevino@kinetica.com",
+    "phone": "+1 (842) 401-2900"
   },
   {
     "id": 7,
-    "age": 39,
-    "name": "Suzanne Greene",
-    "email": "suzannegreene@kinetica.com",
-    "phone": "+1 (863) 459-2542"
+    "name": "Gaines Knowles",
+    "email": "gainesknowles@kinetica.com",
+    "phone": "+1 (899) 581-2610"
   },
   {
     "id": 8,
-    "age": 27,
-    "name": "Harmon Gilbert",
-    "email": "harmongilbert@kinetica.com",
-    "phone": "+1 (962) 509-3593"
+    "name": "Martha Dale",
+    "email": "marthadale@kinetica.com",
+    "phone": "+1 (873) 500-3608"
   },
   {
     "id": 9,
-    "age": 40,
-    "name": "Robinson Berg",
-    "email": "robinsonberg@kinetica.com",
-    "phone": "+1 (915) 584-2662"
+    "name": "Stacey Lloyd",
+    "email": "staceylloyd@kinetica.com",
+    "phone": "+1 (812) 508-3388"
   },
   {
     "id": 10,
-    "age": 23,
-    "name": "Schwartz Donovan",
-    "email": "schwartzdonovan@kinetica.com",
-    "phone": "+1 (930) 467-3178"
+    "name": "Higgins Torres",
+    "email": "higginstorres@kinetica.com",
+    "phone": "+1 (970) 413-2495"
   },
   {
     "id": 11,
-    "age": 25,
-    "name": "Betty Wallace",
-    "email": "bettywallace@kinetica.com",
-    "phone": "+1 (855) 487-3325"
+    "name": "Yang Bray",
+    "email": "yangbray@kinetica.com",
+    "phone": "+1 (854) 540-2315"
   },
   {
     "id": 12,
-    "age": 20,
-    "name": "Howell Haynes",
-    "email": "howellhaynes@kinetica.com",
-    "phone": "+1 (864) 539-2925"
+    "name": "Lora Davidson",
+    "email": "loradavidson@kinetica.com",
+    "phone": "+1 (892) 556-3545"
   },
   {
     "id": 13,
-    "age": 28,
-    "name": "Peck Lara",
-    "email": "pecklara@kinetica.com",
-    "phone": "+1 (874) 504-3817"
+    "name": "Wallace Patrick",
+    "email": "wallacepatrick@kinetica.com",
+    "phone": "+1 (944) 493-3294"
   },
   {
     "id": 14,
-    "age": 38,
-    "name": "Imelda Delgado",
-    "email": "imeldadelgado@kinetica.com",
-    "phone": "+1 (971) 468-3369"
+    "name": "Alba Hunter",
+    "email": "albahunter@kinetica.com",
+    "phone": "+1 (879) 581-3126"
   },
   {
     "id": 15,
-    "age": 21,
-    "name": "Odom Bridges",
-    "email": "odombridges@kinetica.com",
-    "phone": "+1 (943) 421-3840"
+    "name": "Angela Sampson",
+    "email": "angelasampson@kinetica.com",
+    "phone": "+1 (927) 428-3459"
   },
   {
     "id": 16,
-    "age": 27,
-    "name": "Tammy Long",
-    "email": "tammylong@kinetica.com",
-    "phone": "+1 (926) 598-2683"
+    "name": "Ora Anderson",
+    "email": "oraanderson@kinetica.com",
+    "phone": "+1 (964) 542-3913"
   },
   {
     "id": 17,
-    "age": 24,
-    "name": "Shirley Hull",
-    "email": "shirleyhull@kinetica.com",
-    "phone": "+1 (927) 506-3530"
+    "name": "Araceli Talley",
+    "email": "aracelitalley@kinetica.com",
+    "phone": "+1 (824) 401-3015"
   },
   {
     "id": 18,
-    "age": 30,
-    "name": "Cabrera Cochran",
-    "email": "cabreracochran@kinetica.com",
-    "phone": "+1 (986) 555-2188"
+    "name": "Cornelia Washington",
+    "email": "corneliawashington@kinetica.com",
+    "phone": "+1 (815) 518-3519"
   },
   {
     "id": 19,
-    "age": 36,
-    "name": "Peterson Leblanc",
-    "email": "petersonleblanc@kinetica.com",
-    "phone": "+1 (971) 496-2265"
+    "name": "Wanda Kennedy",
+    "email": "wandakennedy@kinetica.com",
+    "phone": "+1 (852) 551-2981"
   },
   {
     "id": 20,
-    "age": 24,
-    "name": "Alexandra Oneill",
-    "email": "alexandraoneill@kinetica.com",
-    "phone": "+1 (819) 493-2886"
-  },
-  {
-    "id": 21,
-    "age": 35,
-    "name": "Laurie Meadows",
-    "email": "lauriemeadows@kinetica.com",
-    "phone": "+1 (915) 552-3925"
-  },
-  {
-    "id": 22,
-    "age": 35,
-    "name": "Powell Glass",
-    "email": "powellglass@kinetica.com",
-    "phone": "+1 (984) 562-2679"
-  },
-  {
-    "id": 23,
-    "age": 28,
-    "name": "Trevino Shields",
-    "email": "trevinoshields@kinetica.com",
-    "phone": "+1 (889) 483-2785"
-  },
-  {
-    "id": 24,
-    "age": 27,
-    "name": "Elena Blevins",
-    "email": "elenablevins@kinetica.com",
-    "phone": "+1 (941) 436-2039"
-  },
-  {
-    "id": 25,
-    "age": 29,
-    "name": "Blevins Sexton",
-    "email": "blevinssexton@kinetica.com",
-    "phone": "+1 (890) 539-3645"
-  },
-  {
-    "id": 26,
-    "age": 21,
-    "name": "Mabel Ramos",
-    "email": "mabelramos@kinetica.com",
-    "phone": "+1 (988) 478-2648"
-  },
-  {
-    "id": 27,
-    "age": 22,
-    "name": "Schneider Villarreal",
-    "email": "schneidervillarreal@kinetica.com",
-    "phone": "+1 (839) 449-3708"
-  },
-  {
-    "id": 28,
-    "age": 35,
-    "name": "Francine Bowman",
-    "email": "francinebowman@kinetica.com",
-    "phone": "+1 (876) 576-2030"
-  },
-  {
-    "id": 29,
-    "age": 30,
-    "name": "Carroll Stewart",
-    "email": "carrollstewart@kinetica.com",
-    "phone": "+1 (987) 533-3797"
-  },
-  {
-    "id": 30,
-    "age": 20,
-    "name": "Lisa Hood",
-    "email": "lisahood@kinetica.com",
-    "phone": "+1 (851) 581-2307"
-  },
-  {
-    "id": 31,
-    "age": 35,
-    "name": "Bridgett Bass",
-    "email": "bridgettbass@kinetica.com",
-    "phone": "+1 (973) 526-3155"
-  },
-  {
-    "id": 32,
-    "age": 38,
-    "name": "Luella Fischer",
-    "email": "luellafischer@kinetica.com",
-    "phone": "+1 (894) 425-2183"
-  },
-  {
-    "id": 33,
-    "age": 30,
-    "name": "Mary Small",
-    "email": "marysmall@kinetica.com",
-    "phone": "+1 (969) 464-3315"
-  },
-  {
-    "id": 34,
-    "age": 33,
-    "name": "Macdonald Le",
-    "email": "macdonaldle@kinetica.com",
-    "phone": "+1 (894) 506-3967"
-  },
-  {
-    "id": 35,
-    "age": 36,
-    "name": "Cannon Gilmore",
-    "email": "cannongilmore@kinetica.com",
-    "phone": "+1 (814) 462-3669"
-  },
-  {
-    "id": 36,
-    "age": 31,
-    "name": "Julia Fields",
-    "email": "juliafields@kinetica.com",
-    "phone": "+1 (852) 545-2880"
-  },
-  {
-    "id": 37,
-    "age": 32,
-    "name": "Lauren Lopez",
-    "email": "laurenlopez@kinetica.com",
-    "phone": "+1 (818) 408-3193"
-  },
-  {
-    "id": 38,
-    "age": 34,
-    "name": "Antonia Leon",
-    "email": "antonialeon@kinetica.com",
-    "phone": "+1 (873) 600-3794"
-  },
-  {
-    "id": 39,
-    "age": 35,
-    "name": "Bender Strickland",
-    "email": "benderstrickland@kinetica.com",
-    "phone": "+1 (876) 538-2897"
-  },
-  {
-    "id": 40,
-    "age": 23,
-    "name": "Keri Roberson",
-    "email": "keriroberson@kinetica.com",
-    "phone": "+1 (875) 451-2948"
-  },
-  {
-    "id": 41,
-    "age": 36,
-    "name": "Sandoval Roberts",
-    "email": "sandovalroberts@kinetica.com",
-    "phone": "+1 (845) 592-3463"
-  },
-  {
-    "id": 42,
-    "age": 30,
-    "name": "Veronica Trevino",
-    "email": "veronicatrevino@kinetica.com",
-    "phone": "+1 (851) 566-3568"
-  },
-  {
-    "id": 43,
-    "age": 33,
-    "name": "Leah Klein",
-    "email": "leahklein@kinetica.com",
-    "phone": "+1 (827) 439-2307"
-  },
-  {
-    "id": 44,
-    "age": 39,
-    "name": "Irma Kaufman",
-    "email": "irmakaufman@kinetica.com",
-    "phone": "+1 (926) 446-2726"
-  },
-  {
-    "id": 45,
-    "age": 38,
-    "name": "Michelle Brady",
-    "email": "michellebrady@kinetica.com",
-    "phone": "+1 (817) 543-2906"
-  },
-  {
-    "id": 46,
-    "age": 35,
-    "name": "Maxine Salinas",
-    "email": "maxinesalinas@kinetica.com",
-    "phone": "+1 (987) 563-2213"
-  },
-  {
-    "id": 47,
-    "age": 38,
-    "name": "Lila Burgess",
-    "email": "lilaburgess@kinetica.com",
-    "phone": "+1 (843) 439-3562"
-  },
-  {
-    "id": 48,
-    "age": 29,
-    "name": "Meyer Acosta",
-    "email": "meyeracosta@kinetica.com",
-    "phone": "+1 (880) 414-2957"
-  },
-  {
-    "id": 49,
-    "age": 24,
-    "name": "Phillips Huffman",
-    "email": "phillipshuffman@kinetica.com",
-    "phone": "+1 (880) 588-3006"
-  },
-  {
-    "id": 50,
-    "age": 21,
-    "name": "Gay Mathis",
-    "email": "gaymathis@kinetica.com",
-    "phone": "+1 (829) 479-3119"
-  },
-  {
-    "id": 51,
-    "age": 38,
-    "name": "Wallace Thomas",
-    "email": "wallacethomas@kinetica.com",
-    "phone": "+1 (941) 550-3547"
-  },
-  {
-    "id": 52,
-    "age": 25,
-    "name": "Jaime Farrell",
-    "email": "jaimefarrell@kinetica.com",
-    "phone": "+1 (901) 475-3279"
-  },
-  {
-    "id": 53,
-    "age": 26,
-    "name": "Carey Malone",
-    "email": "careymalone@kinetica.com",
-    "phone": "+1 (957) 531-3650"
-  },
-  {
-    "id": 54,
-    "age": 20,
-    "name": "Lora Velasquez",
-    "email": "loravelasquez@kinetica.com",
-    "phone": "+1 (970) 491-3463"
-  },
-  {
-    "id": 55,
-    "age": 23,
-    "name": "Sampson Miles",
-    "email": "sampsonmiles@kinetica.com",
-    "phone": "+1 (855) 548-2369"
-  },
-  {
-    "id": 56,
-    "age": 22,
-    "name": "Lancaster Adkins",
-    "email": "lancasteradkins@kinetica.com",
-    "phone": "+1 (918) 548-2299"
-  },
-  {
-    "id": 57,
-    "age": 31,
-    "name": "Durham James",
-    "email": "durhamjames@kinetica.com",
-    "phone": "+1 (993) 455-2422"
-  },
-  {
-    "id": 58,
-    "age": 21,
-    "name": "Myers Kemp",
-    "email": "myerskemp@kinetica.com",
-    "phone": "+1 (966) 451-2441"
-  },
-  {
-    "id": 59,
-    "age": 32,
-    "name": "Cleo Scott",
-    "email": "cleoscott@kinetica.com",
-    "phone": "+1 (858) 546-3240"
-  },
-  {
-    "id": 60,
-    "age": 35,
-    "name": "Cherry Leonard",
-    "email": "cherryleonard@kinetica.com",
-    "phone": "+1 (922) 518-2781"
-  },
-  {
-    "id": 61,
-    "age": 37,
-    "name": "June William",
-    "email": "junewilliam@kinetica.com",
-    "phone": "+1 (818) 537-3831"
-  },
-  {
-    "id": 62,
-    "age": 28,
-    "name": "Fletcher Mendoza",
-    "email": "fletchermendoza@kinetica.com",
-    "phone": "+1 (864) 427-2377"
-  },
-  {
-    "id": 63,
-    "age": 37,
-    "name": "Gwendolyn Morris",
-    "email": "gwendolynmorris@kinetica.com",
-    "phone": "+1 (866) 595-2659"
-  },
-  {
-    "id": 64,
-    "age": 33,
-    "name": "Tasha Evans",
-    "email": "tashaevans@kinetica.com",
-    "phone": "+1 (945) 422-3127"
-  },
-  {
-    "id": 65,
-    "age": 36,
-    "name": "Lea Downs",
-    "email": "leadowns@kinetica.com",
-    "phone": "+1 (852) 498-2143"
-  },
-  {
-    "id": 66,
-    "age": 40,
-    "name": "Lorna Sandoval",
-    "email": "lornasandoval@kinetica.com",
-    "phone": "+1 (882) 600-3397"
-  },
-  {
-    "id": 67,
-    "age": 23,
-    "name": "Cecilia Rush",
-    "email": "ceciliarush@kinetica.com",
-    "phone": "+1 (801) 592-3254"
-  },
-  {
-    "id": 68,
-    "age": 21,
-    "name": "Meghan Poole",
-    "email": "meghanpoole@kinetica.com",
-    "phone": "+1 (837) 547-2736"
-  },
-  {
-    "id": 69,
-    "age": 32,
-    "name": "Noelle Welch",
-    "email": "noellewelch@kinetica.com",
-    "phone": "+1 (923) 405-2825"
-  },
-  {
-    "id": 70,
-    "age": 29,
-    "name": "Marta Branch",
-    "email": "martabranch@kinetica.com",
-    "phone": "+1 (961) 485-2519"
-  },
-  {
-    "id": 71,
-    "age": 29,
-    "name": "Vega Humphrey",
-    "email": "vegahumphrey@kinetica.com",
-    "phone": "+1 (915) 543-2164"
-  },
-  {
-    "id": 72,
-    "age": 31,
-    "name": "Cotton Chen",
-    "email": "cottonchen@kinetica.com",
-    "phone": "+1 (917) 477-2003"
-  },
-  {
-    "id": 73,
-    "age": 27,
-    "name": "Avery Boyd",
-    "email": "averyboyd@kinetica.com",
-    "phone": "+1 (815) 498-2198"
-  },
-  {
-    "id": 74,
-    "age": 36,
-    "name": "Terri Vaughn",
-    "email": "terrivaughn@kinetica.com",
-    "phone": "+1 (917) 478-2146"
-  },
-  {
-    "id": 75,
-    "age": 28,
-    "name": "Sophia Simmons",
-    "email": "sophiasimmons@kinetica.com",
-    "phone": "+1 (893) 520-2148"
-  },
-  {
-    "id": 76,
-    "age": 23,
-    "name": "Belinda Cook",
-    "email": "belindacook@kinetica.com",
-    "phone": "+1 (844) 444-2727"
-  },
-  {
-    "id": 77,
-    "age": 32,
-    "name": "Wynn Marshall",
-    "email": "wynnmarshall@kinetica.com",
-    "phone": "+1 (907) 583-2752"
-  },
-  {
-    "id": 78,
-    "age": 40,
-    "name": "Tran Flowers",
-    "email": "tranflowers@kinetica.com",
-    "phone": "+1 (843) 475-3001"
-  },
-  {
-    "id": 79,
-    "age": 26,
-    "name": "Stokes Yates",
-    "email": "stokesyates@kinetica.com",
-    "phone": "+1 (986) 548-3822"
-  },
-  {
-    "id": 80,
-    "age": 21,
-    "name": "Bartlett Mendez",
-    "email": "bartlettmendez@kinetica.com",
-    "phone": "+1 (844) 549-3053"
-  },
-  {
-    "id": 81,
-    "age": 29,
-    "name": "Haley Dalton",
-    "email": "haleydalton@kinetica.com",
-    "phone": "+1 (869) 429-3690"
-  },
-  {
-    "id": 82,
-    "age": 37,
-    "name": "Cook Juarez",
-    "email": "cookjuarez@kinetica.com",
-    "phone": "+1 (836) 458-2065"
-  },
-  {
-    "id": 83,
-    "age": 33,
-    "name": "Christa Montgomery",
-    "email": "christamontgomery@kinetica.com",
-    "phone": "+1 (804) 524-2565"
-  },
-  {
-    "id": 84,
-    "age": 38,
-    "name": "Joann Marks",
-    "email": "joannmarks@kinetica.com",
-    "phone": "+1 (995) 491-3746"
-  },
-  {
-    "id": 85,
-    "age": 39,
-    "name": "Angelica Harvey",
-    "email": "angelicaharvey@kinetica.com",
-    "phone": "+1 (917) 529-3057"
-  },
-  {
-    "id": 86,
-    "age": 33,
-    "name": "Barber Fuller",
-    "email": "barberfuller@kinetica.com",
-    "phone": "+1 (911) 493-3791"
-  },
-  {
-    "id": 87,
-    "age": 21,
-    "name": "Lacy Schwartz",
-    "email": "lacyschwartz@kinetica.com",
-    "phone": "+1 (998) 428-2743"
-  },
-  {
-    "id": 88,
-    "age": 36,
-    "name": "Alissa Franco",
-    "email": "alissafranco@kinetica.com",
-    "phone": "+1 (890) 572-3498"
-  },
-  {
-    "id": 89,
-    "age": 29,
-    "name": "Beverley Barrett",
-    "email": "beverleybarrett@kinetica.com",
-    "phone": "+1 (862) 490-3397"
-  },
-  {
-    "id": 90,
-    "age": 40,
-    "name": "Carla Church",
-    "email": "carlachurch@kinetica.com",
-    "phone": "+1 (932) 596-2467"
-  },
-  {
-    "id": 91,
-    "age": 28,
-    "name": "Lolita Burris",
-    "email": "lolitaburris@kinetica.com",
-    "phone": "+1 (892) 480-2478"
-  },
-  {
-    "id": 92,
-    "age": 27,
-    "name": "Yang Munoz",
-    "email": "yangmunoz@kinetica.com",
-    "phone": "+1 (956) 562-3633"
-  },
-  {
-    "id": 93,
-    "age": 38,
-    "name": "Christian Frye",
-    "email": "christianfrye@kinetica.com",
-    "phone": "+1 (938) 592-3178"
-  },
-  {
-    "id": 94,
-    "age": 21,
-    "name": "Christina Medina",
-    "email": "christinamedina@kinetica.com",
-    "phone": "+1 (983) 578-3873"
-  },
-  {
-    "id": 95,
-    "age": 31,
-    "name": "Kendra Potts",
-    "email": "kendrapotts@kinetica.com",
-    "phone": "+1 (946) 411-2081"
-  },
-  {
-    "id": 96,
-    "age": 21,
-    "name": "Rivera Mcleod",
-    "email": "riveramcleod@kinetica.com",
-    "phone": "+1 (948) 406-2857"
-  },
-  {
-    "id": 97,
-    "age": 21,
-    "name": "Ward Hancock",
-    "email": "wardhancock@kinetica.com",
-    "phone": "+1 (830) 440-3253"
-  },
-  {
-    "id": 98,
-    "age": 26,
-    "name": "Ray Howard",
-    "email": "rayhoward@kinetica.com",
-    "phone": "+1 (946) 447-3737"
-  },
-  {
-    "id": 99,
-    "age": 24,
-    "name": "Dunlap Chapman",
-    "email": "dunlapchapman@kinetica.com",
-    "phone": "+1 (930) 471-2918"
-  },
-  {
-    "id": 100,
-    "age": 38,
-    "name": "Rice Benson",
-    "email": "ricebenson@kinetica.com",
-    "phone": "+1 (984) 532-3799"
+    "name": "Julie Vance",
+    "email": "julievance@kinetica.com",
+    "phone": "+1 (811) 444-2784"
   }
 ]
